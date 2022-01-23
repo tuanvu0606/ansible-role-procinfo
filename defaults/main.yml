@@ -1,0 +1,4 @@
+---
+# defaults file for awscli
+
+package_name: procinfo
